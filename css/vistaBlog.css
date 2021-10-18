@@ -1,0 +1,10 @@
+#img{
+    opacity: 80%;
+}
+
+#dv1{
+    font-size: 60px;
+}
+#img2{
+    background-image: url(../img/fondo.jpg);
+}
